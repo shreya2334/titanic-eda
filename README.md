@@ -84,19 +84,19 @@ This represents a strong baseline model for predicting passenger survival using 
 ![Survival](screenshots/survival.png)
 
 ### Survival by Gender
-![Gender](screenshots/survival-by-gender.png)
+![Survival-By-Gender](screenshots/survival-by-gender.png)
 
 ### Survival by Class
-![Class](screenshots/survival-by-class.png)
+![Survival-By-Class](screenshots/survival-by-class.png)
 
 ### Age Distribution
-![Age](screenshots/age-distribution.png)
+![Age-Distribution](screenshots/age-distribution.png)
 
 ### Fare vs Survival
-![Fare](screenshots/fare-vs-survival.png)
+![Fare-vs-Survival](screenshots/fare-vs-survival.png)
 
 ### Correlation Heatmap
-![Correlation](screenshots/correlation-matrix.png)
+![Correlation-Matrix](screenshots/correlation-matrix.png)
 
 ## Future Improvements
 - Apply advanced models (XGBoost, Gradient Boosting)  
